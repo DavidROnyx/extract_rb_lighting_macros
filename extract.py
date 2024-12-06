@@ -2,7 +2,8 @@ import sqlite3
 import os
 
 fixture={}
-conn = sqlite3.connect('macro.db3')
+
+conn = sqlite3.connect(os.getenv("HOME") + '/Library/Application Support/Pioneer/rekordbox6/LightingDB/macro.db3')
 
 cursor1 = conn.cursor()
 cursor2 = conn.cursor()
@@ -18,6 +19,10 @@ while row is not None:
 cursor1.execute("SELECT id,name FROM macro")
 
 # extrait les data de chaque macros
+dirname='data'
+if not os.path.exists(dirname):
+    os.makedirs(dirname)
+os.chdir(dirname)    
 row = cursor1.fetchone()
 while row is not None:
     dirname=str(row[0]) + "-" + str(row[1])

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="1.9885859226379198894" y="1" type="2"/>
+      <Point x="3.9974635383639824937" y="1" type="2"/>
+      <Point x="5.9860494610019028272" y="0" type="2"/>
+      <Point x="8.0355104629042486408" y="0" type="2"/>
+      <Point x="10.003804692454027148" y="1" type="2"/>
+      <Point x="11.992390615091949257" y="1" type="2"/>
+      <Point x="14.021559923906149692" y="0" type="2"/>
+      <Point x="15.989854153455929975" y="0" type="2"/>
+      <Point x="18.039315155358274012" y="1" type="2"/>
+      <Point x="20.027901077996194346" y="1" type="2"/>
+      <Point x="22.057070386810398332" y="0" type="2"/>
+      <Point x="23.964489537095751359" y="0" type="2"/>
+      <Point x="26.034242232086242552" y="1" type="2"/>
+      <Point x="28.022828154724159333" y="1" type="2"/>
+      <Point x="29.991122384273939616" y="0" type="2"/>
+      <Point x="31.005707038681038057" y="0" type="2"/>
+      <Point x="32" y="0.57333333333333336146" type="2"/>
+      <Point x="32" y="0.57333333333333336146" type="2"/>
+      <Point x="32" y="0.57333333333333336146" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-16776961" xright="32" colourright="-16776961"/>
+  </Colour>
+  <Strobe/>
+  <Position>
+    <MovementBlock xleft="0" xright="32" pattern="Circle" width="28" height="35"
+                   offset_x="170" offset_y="37" round_angle="0" offset_angle="0"
+                   period_time="8000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Backward"/>
+  </Position>
+</LightingEditModel>

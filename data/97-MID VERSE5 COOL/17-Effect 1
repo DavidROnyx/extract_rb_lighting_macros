@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="1.0166666666666666" y="0" type="2"/>
+      <Point x="2.583333333333333" y="1" type="2"/>
+      <Point x="3.9999999999999996" y="0" type="2"/>
+      <Point x="4.9833333333333325" y="0" type="2"/>
+      <Point x="6.5333333333333332" y="1" type="2"/>
+      <Point x="7.9666666666666668" y="0" type="2"/>
+      <Point x="7.9833333333333325" y="0" type="2"/>
+      <Point x="8.9999999999999982" y="0" type="2"/>
+      <Point x="10.566666666666665" y="1" type="2"/>
+      <Point x="11.983333333333333" y="0" type="2"/>
+      <Point x="12.966666666666665" y="0" type="2"/>
+      <Point x="14.516666666666666" y="1" type="2"/>
+      <Point x="15.950000000000001" y="0" type="2"/>
+      <Point x="15.999999999999998" y="0" type="2"/>
+      <Point x="16" y="0" type="2"/>
+      <Point x="17.016666666666666" y="0" type="2"/>
+      <Point x="18.583333333333332" y="1" type="2"/>
+      <Point x="20" y="0" type="2"/>
+      <Point x="20.983333333333334" y="0" type="2"/>
+      <Point x="22.533333333333331" y="1" type="2"/>
+      <Point x="23.966666666666665" y="0" type="2"/>
+      <Point x="23.983333333333334" y="0" type="2"/>
+      <Point x="25" y="0" type="2"/>
+      <Point x="26.566666666666666" y="1" type="2"/>
+      <Point x="27.983333333333327" y="0" type="2"/>
+      <Point x="28.966666666666665" y="0" type="2"/>
+      <Point x="30.516666666666666" y="1" type="2"/>
+      <Point x="31.949999999999999" y="0" type="2"/>
+      <Point x="31.999999999999996" y="0" type="2"/>
+      <Point x="32" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-16775937" xright="31.983333333333334"
+                 colourright="-16775937"/>
+  </Colour>
+  <Strobe/>
+  <Position/>
+  <Rotate>
+    <RotateBlock xleft="0" rotateleft="0.59715640544891357" xright="31.983333333333334"
+                 rotateright="0.59715640544891357"/>
+  </Rotate>
+</LightingEditModel>

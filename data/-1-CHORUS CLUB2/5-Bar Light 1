@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="0.18333333333333334814" y="0.95999999999999996447" type="2"/>
+      <Point x="0.88333333333333330373" y="1" type="2"/>
+      <Point x="1" y="0" type="2"/>
+      <Point x="1.966666666666666563" y="0.0025972572068290369213" type="2"/>
+      <Point x="6" y="0" type="2"/>
+      <Point x="6.4833333333333325044" y="1" type="2"/>
+      <Point x="6.933333333333332682" y="0" type="2"/>
+      <Point x="7.4999999999999991118" y="1" type="2"/>
+      <Point x="8" y="0" type="2"/>
+      <Point x="16.966666666666665009" y="0" type="2"/>
+      <Point x="17.5" y="1" type="2"/>
+      <Point x="18" y="0" type="2"/>
+      <Point x="18.966666666666668561" y="0" type="2"/>
+      <Point x="19.000000000000003553" y="0" type="2"/>
+      <Point x="19.483333333333330728" y="1" type="2"/>
+      <Point x="19.949999999999999289" y="0.013333333333333334189" type="2"/>
+      <Point x="19.949999999999999289" y="0" type="2"/>
+      <Point x="24.966666666666665009" y="0" type="2"/>
+      <Point x="25.025602602142335229" y="0" type="2"/>
+      <Point x="25.100000000000001421" y="1" type="2"/>
+      <Point x="25.816666666666669983" y="1" type="2"/>
+      <Point x="26.066666666666662877" y="0" type="2"/>
+      <Point x="26.083333333333335702" y="0" type="2"/>
+      <Point x="26.966666666666665009" y="0" type="2"/>
+      <Point x="27.025602602142335229" y="0" type="2"/>
+      <Point x="27.100000000000001421" y="1" type="2"/>
+      <Point x="27.81666666666666643" y="1" type="2"/>
+      <Point x="28.066666666666659324" y="0" type="2"/>
+      <Point x="28.083333333333332149" y="0" type="2"/>
+      <Point x="28.966666666666665009" y="0" type="2"/>
+      <Point x="29.016666666666662167" y="0" type="2"/>
+      <Point x="29.075602602142332387" y="0" type="2"/>
+      <Point x="29.149999999999998579" y="1" type="2"/>
+      <Point x="30.549999999999997158" y="1" type="2"/>
+      <Point x="30.849999999999997868" y="0" type="2"/>
+      <Point x="30.950000000000002842" y="0" type="2"/>
+      <Point x="31.02456093547566951" y="0" type="2"/>
+      <Point x="31.14114583333333286" y="1" type="2"/>
+      <Point x="31.857812500000001421" y="1" type="2"/>
+      <Point x="32" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-65536" xright="1.0666666666666666519"
+                 colourright="-65536"/>
+    <ColourBlock xleft="5.9333333333333335702" colourleft="-16776961" xright="6.9666666666666658969"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="6.9666666666666658969" colourleft="-65536" xright="8.0666666666666664298"
+                 colourright="-65536"/>
+    <ColourBlock xleft="16.75" colourleft="-65536" xright="18.133333333333329307"
+                 colourright="-65536"/>
+    <ColourBlock xleft="18.850000000000001421" colourleft="-16776961" xright="20.166666666666667851"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="24.966666666666665009" colourleft="-16776961" xright="26.083333333333335702"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="26.966666666666665009" colourleft="-64512" xright="28.083333333333332149"
+                 colourright="-64512"/>
+    <ColourBlock xleft="29.016666666666662167" colourleft="-16776961" xright="30.933333333333330017"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="30.950000000000002842" colourleft="-64512" xright="32"
+                 colourright="-64512"/>
+  </Colour>
+  <Strobe>
+    <StrobeBlock xleft="0" strobeleft="1" xright="1.1232421875000002665" stroberight="1"/>
+    <StrobeBlock xleft="1.1232421875000002665" strobeleft="0.96699345111846923828"
+                 xright="1.1333333333333333037" stroberight="0.96682465076446533203"/>
+    <StrobeBlock xleft="29.066666666666659324" strobeleft="0.98104268312454223633"
+                 xright="30.949999999999999289" stroberight="0.98104268312454223633"/>
+  </Strobe>
+</LightingEditModel>

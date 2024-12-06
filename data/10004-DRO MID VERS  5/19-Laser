@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="1.5333333333333332" y="1" type="2"/>
+      <Point x="2.9500000000000002" y="0" type="2"/>
+      <Point x="4.0333333333333332" y="0" type="2"/>
+      <Point x="5.5333333333333323" y="1" type="2"/>
+      <Point x="6.9833333333333325" y="0" type="2"/>
+      <Point x="8" y="0" type="2"/>
+      <Point x="8" y="0" type="2"/>
+      <Point x="9.5333333333333332" y="1" type="2"/>
+      <Point x="10.949999999999999" y="0" type="2"/>
+      <Point x="12.033333333333335" y="0" type="2"/>
+      <Point x="13.533333333333333" y="1" type="2"/>
+      <Point x="14.983333333333333" y="0" type="2"/>
+      <Point x="15.983333333333333" y="0" type="2"/>
+      <Point x="15.983333333333333" y="0" type="2"/>
+      <Point x="17.516666666666666" y="1" type="2"/>
+      <Point x="18.933333333333334" y="0" type="2"/>
+      <Point x="20.016666666666666" y="0" type="2"/>
+      <Point x="21.516666666666666" y="1" type="2"/>
+      <Point x="22.966666666666665" y="0" type="2"/>
+      <Point x="23.983333333333334" y="0" type="2"/>
+      <Point x="23.983333333333334" y="0" type="2"/>
+      <Point x="25.516666666666666" y="1" type="2"/>
+      <Point x="26.93333333333333" y="0" type="2"/>
+      <Point x="28.016666666666662" y="0" type="2"/>
+      <Point x="29.516666666666666" y="1" type="2"/>
+      <Point x="30.966666666666665" y="0" type="2"/>
+      <Point x="31.983333333333334" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-16711936" xright="31.983333333333334"
+                 colourright="-16711936"/>
+  </Colour>
+  <Strobe/>
+  <Position/>
+  <Rotate>
+    <RotateBlock xleft="0" rotateleft="0.79620856046676636" xright="31.983333333333334"
+                 rotateright="0.79620856046676636"/>
+  </Rotate>
+</LightingEditModel>

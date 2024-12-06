@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0.0" xright="32.0">
+      <Point x="0.0" y="0.0" type="1"/>
+      <Point x="0.0" y="0.0" type="2"/>
+      <Point x="1.250000000000001" y="0.52" type="2"/>
+      <Point x="2.499999999999999" y="0.5333333333333333" type="2"/>
+      <Point x="3.75" y="0.0" type="2"/>
+      <Point x="3.999999999999998" y="0.0" type="2"/>
+      <Point x="4.250000000000001" y="0.0" type="2"/>
+      <Point x="5.648549223078255" y="0.0" type="2"/>
+      <Point x="14.25" y="0.04" type="2"/>
+      <Point x="15.5" y="0.52" type="2"/>
+      <Point x="16.75" y="0.5333333333333333" type="2"/>
+      <Point x="18.0" y="0.0" type="2"/>
+      <Point x="18.25" y="0.0" type="2"/>
+      <Point x="20.05816509995703" y="0.0" type="2"/>
+      <Point x="28.89166666666667" y="0.0" type="2"/>
+      <Point x="29.0" y="0.04" type="2"/>
+      <Point x="30.25" y="0.52" type="2"/>
+      <Point x="31.5" y="0.5333333333333333" type="2"/>
+      <Point x="32.0" y="0.3199999999999996" type="2"/>
+      <Point x="32.0" y="0.3199999999999996" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0.0" colourleft="-15794689" xright="3.999999999999998"
+                 colourright="-15794689"/>
+    <ColourBlock xleft="3.999999999999998" colourleft="-15794689" xright="4.250000000000001"
+                 colourright="-15794689"/>
+    <ColourBlock xleft="4.250000000000001" colourleft="-15794689" xright="14.25"
+                 colourright="-15794689"/>
+    <ColourBlock xleft="14.25" colourleft="-15794689" xright="18.25" colourright="-15794689"/>
+    <ColourBlock xleft="18.25" colourleft="-15794689" xright="29.0" colourright="-15794689"/>
+    <ColourBlock xleft="29.0" colourleft="-15794689" xright="32.0" colourright="-15794689"/>
+  </Colour>
+  <Strobe>
+    <StrobeBlock xleft="0.0" strobeleft="0.9539749026298523" xright="3.75" stroberight="0.9539749026298523"/>
+  </Strobe>
+</LightingEditModel>

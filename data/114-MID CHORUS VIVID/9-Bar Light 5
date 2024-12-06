@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="1" type="1"/>
+      <Point x="32" y="1" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="1.4407102092580850172" colourleft="-16777216" xright="1.9074191502853519165"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="1.9074191502853519165" colourleft="-16711681" xright="2.9220038046924536879"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="2.9220038046924536879" colourleft="-16711681" xright="3.3887127457197205871"
+                 colourright="-16777216"/>
+    <ColourBlock xleft="7.4876347495244139907" colourleft="-16766422" xright="7.873176918199113139"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="7.873176918199113139" colourleft="-16711681" xright="8.8877615726062160206"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="8.8877615726062160206" colourleft="-16711681" xright="9.3544705136334815876"
+                 colourright="-16777216"/>
+    <ColourBlock xleft="13.473684210526315042" colourleft="-16766422" xright="13.859226379201016854"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="13.859226379201016854" colourleft="-16711681" xright="14.873811033608113519"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="14.873811033608113519" colourleft="-16711681" xright="15.340519974635386191"
+                 colourright="-16777216"/>
+    <ColourBlock xleft="19.459733671528219645" colourleft="-16766422" xright="19.845275840202916129"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="19.845275840202916129" colourleft="-16711681" xright="20.859860494610018122"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="20.859860494610018122" colourleft="-16711681" xright="21.326569435637285466"
+                 colourright="-16777216"/>
+    <ColourBlock xleft="25.486366518706411455" colourleft="-16766422" xright="25.871908687381104386"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="25.871908687381104386" colourleft="-16711681" xright="26.886493341788209932"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="26.886493341788209932" colourleft="-16711681" xright="27.35320228281547017"
+                 colourright="-16777216"/>
+    <ColourBlock xleft="31.4724159797083054" colourleft="-16766422" xright="31.857958148383005437"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="31.857958148383005437" colourleft="-16711681" xright="32"
+                 colourright="-16711681"/>
+  </Colour>
+  <Strobe/>
+</LightingEditModel>

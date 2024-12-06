@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="1.8166666666666664" y="0" type="2"/>
+      <Point x="2.2999999999999998" y="1" type="2"/>
+      <Point x="3.5999999999999996" y="0.97333333333333349" type="2"/>
+      <Point x="4.1500000000000004" y="0" type="2"/>
+      <Point x="7.9666666666666668" y="0" type="2"/>
+      <Point x="9.7833333333333332" y="0" type="2"/>
+      <Point x="10.266666666666666" y="1" type="2"/>
+      <Point x="11.566666666666666" y="0.97333333333333349" type="2"/>
+      <Point x="12.116666666666667" y="0" type="2"/>
+      <Point x="15.950000000000001" y="0" type="2"/>
+      <Point x="15.966666666666665" y="0" type="2"/>
+      <Point x="17.783333333333331" y="0" type="2"/>
+      <Point x="18.266666666666666" y="1" type="2"/>
+      <Point x="19.566666666666666" y="0.97333333333333349" type="2"/>
+      <Point x="20.116666666666667" y="0" type="2"/>
+      <Point x="23.949999999999999" y="0" type="2"/>
+      <Point x="23.950000000000003" y="0" type="2"/>
+      <Point x="23.950000000000003" y="0" type="2"/>
+      <Point x="23.983333333333334" y="0" type="2"/>
+      <Point x="25.799999999999997" y="0" type="2"/>
+      <Point x="26.283333333333335" y="1" type="2"/>
+      <Point x="27.583333333333332" y="0.97333333333333349" type="2"/>
+      <Point x="28.133333333333329" y="0" type="2"/>
+      <Point x="31.966666666666665" y="0" type="2"/>
+      <Point x="31.983333333333334" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-16711681" xright="7.8833333333333329"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="7.8833333333333329" colourleft="-16711681" xright="7.9666666666666668"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="7.9666666666666668" colourleft="-16711681" xright="7.9833333333333325"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="7.9833333333333325" colourleft="-16711681" xright="15.866666666666665"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="15.866666666666665" colourleft="-16711681" xright="15.983333333333333"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="15.983333333333331" colourleft="-16711681" xright="23.866666666666667"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="23.866666666666667" colourleft="-16711681" xright="23.949999999999999"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="23.949999999999999" colourleft="-16711681" xright="23.950000000000003"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="23.950000000000003" colourleft="-16711681" xright="24"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="24" colourleft="-16711681" xright="31.883333333333333"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="31.883333333333333" colourleft="-16711681" xright="31.966666666666665"
+                 colourright="-16711681"/>
+    <ColourBlock xleft="31.966666666666665" colourleft="-16711681" xright="31.983333333333334"
+                 colourright="-16711681"/>
+  </Colour>
+  <Strobe/>
+</LightingEditModel>

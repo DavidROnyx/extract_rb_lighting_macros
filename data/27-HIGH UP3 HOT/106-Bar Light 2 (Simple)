@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="1" type="1"/>
+      <Point x="0.12499999999999927836" y="1" type="2"/>
+      <Point x="22.124999999999996447" y="1" type="2"/>
+      <Point x="31.024999999999998579" y="1" type="2"/>
+      <Point x="32" y="1" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-524282" xright="0.19999999999999928946"
+                 colourright="-65536"/>
+    <ColourBlock xleft="0.19999999999999928946" colourleft="-65536" xright="4.1999999999999975131"
+                 colourright="-65536"/>
+    <ColourBlock xleft="4.1999999999999975131" colourleft="-65536" xright="7.3555555555555507397"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="7.3555555555555507397" colourleft="-16776961" xright="11.333333333333330373"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="11.333333333333330373" colourleft="-16776961" xright="14.355555555555554292"
+                 colourright="-65536"/>
+    <ColourBlock xleft="14.355555555555554292" colourleft="-65536" xright="18.22222222222221788"
+                 colourright="-65536"/>
+    <ColourBlock xleft="18.22222222222221788" colourleft="-65536" xright="21.177777777777773593"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="21.177777777777773593" colourleft="-16776961" xright="22.124999999999996447"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="22.124999999999996447" colourleft="-16056077" xright="22.255555555555549319"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="22.255555555555549319" colourleft="-16776961" xright="26.233333333333330728"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="26.233333333333330728" colourleft="-16776961" xright="29.255555555555552871"
+                 colourright="-65536"/>
+    <ColourBlock xleft="29.255555555555552871" colourleft="-65536" xright="32"
+                 colourright="-65536"/>
+  </Colour>
+  <Strobe>
+    <StrobeBlock xleft="0" strobeleft="1" xright="32" stroberight="1"/>
+  </Strobe>
+</LightingEditModel>

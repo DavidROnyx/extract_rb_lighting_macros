@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="1" type="1"/>
+      <Point x="0" y="1" type="2"/>
+      <Point x="3.0078788839568808555" y="0" type="2"/>
+      <Point x="4.9964648065947994127" y="0" type="2"/>
+      <Point x="7.9793436905516790247" y="1" type="2"/>
+      <Point x="9.9679296131896002464" y="1" type="2"/>
+      <Point x="12.93051680405833892" y="0" type="2"/>
+      <Point x="15.000269499048828337" y="0" type="2"/>
+      <Point x="17.983148383005708837" y="1" type="2"/>
+      <Point x="19.971734305643622065" y="1" type="2"/>
+      <Point x="22.934321496512364291" y="0" type="2"/>
+      <Point x="24.983782498414708328" y="0" type="2"/>
+      <Point x="27.966661382371590605" y="1" type="2"/>
+      <Point x="29.955247305009510939" y="1" type="2"/>
+      <Point x="32" y="0.30915066299721455367" type="2"/>
+      <Point x="32" y="0.30915066299721455367" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-5102" xright="1.0395846544071023487" colourright="-65281"/>
+    <ColourBlock xleft="1.0395846544071023487" colourleft="-65281" xright="3.0281705770450222381"
+                 colourright="-65281"/>
+    <ColourBlock xleft="3.0281705770450222381" colourleft="-65281" xright="4.0021718452758401341"
+                 colourright="-256"/>
+    <ColourBlock xleft="4.0021718452758401341" colourleft="-256" xright="5.9907577679137604676"
+                 colourright="-256"/>
+    <ColourBlock xleft="5.9907577679137604676" colourleft="-256" xright="7.005342422320862461"
+                 colourright="-65281"/>
+    <ColourBlock xleft="7.005342422320862461" colourleft="-65281" xright="8.9939283449587819064"
+                 colourright="-65281"/>
+    <ColourBlock xleft="8.9939283449587819064" colourleft="-65281" xright="9.9679296131896002464"
+                 colourright="-256"/>
+    <ColourBlock xleft="9.9679296131896002464" colourleft="-256" xright="11.997098922003807786"
+                 colourright="-256"/>
+    <ColourBlock xleft="11.997098922003807786" colourleft="-256" xright="13.011683576410909779"
+                 colourright="-65281"/>
+    <ColourBlock xleft="13.011683576410909779" colourleft="-65281" xright="15.000269499048828337"
+                 colourright="-65281"/>
+    <ColourBlock xleft="15.000269499048828337" colourleft="-65281" xright="15.974270767279646677"
+                 colourright="-256"/>
+    <ColourBlock xleft="15.974270767279646677" colourleft="-256" xright="18.003440076093848887"
+                 colourright="-256"/>
+    <ColourBlock xleft="18.003440076093848887" colourleft="-256" xright="19.018024730500950881"
+                 colourright="-65281"/>
+    <ColourBlock xleft="19.018024730500950881" colourleft="-65281" xright="21.006610653138871214"
+                 colourright="-65281"/>
+    <ColourBlock xleft="21.006610653138871214" colourleft="-65281" xright="21.980611921369686002"
+                 colourright="-256"/>
+    <ColourBlock xleft="21.980611921369686002" colourleft="-256" xright="23.989489537095749938"
+                 colourright="-256"/>
+    <ColourBlock xleft="23.989489537095749938" colourleft="-256" xright="25.004074191502848379"
+                 colourright="-65281"/>
+    <ColourBlock xleft="25.004074191502848379" colourleft="-65281" xright="26.992660114140772265"
+                 colourright="-65281"/>
+    <ColourBlock xleft="26.992660114140772265" colourleft="-65281" xright="27.966661382371590605"
+                 colourright="-256"/>
+    <ColourBlock xleft="27.966661382371590605" colourleft="-256" xright="30.016122384273938195"
+                 colourright="-256"/>
+    <ColourBlock xleft="30.016122384273938195" colourleft="-256" xright="31.030707038681036636"
+                 colourright="-65281"/>
+    <ColourBlock xleft="31.030707038681036636" colourleft="-65281" xright="32"
+                 colourright="-65281"/>
+  </Colour>
+  <Strobe/>
+</LightingEditModel>

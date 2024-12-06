@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="1" type="1"/>
+      <Point x="0" y="1" type="2"/>
+      <Point x="2.0088776157260621602" y="0" type="2"/>
+      <Point x="3.4901712111604310529" y="0" type="2"/>
+      <Point x="3.4901712111604310529" y="0" type="2"/>
+      <Point x="4.990171211160431497" y="1" type="2"/>
+      <Point x="6.9901712111604306088" y="1" type="2"/>
+      <Point x="8.4901712111604297206" y="0" type="2"/>
+      <Point x="9.9901712111604297206" y="0.01369863013698629" type="2"/>
+      <Point x="11.490171211160429721" y="1" type="2"/>
+      <Point x="13.490171211160433273" y="1" type="2"/>
+      <Point x="14.990171211160433273" y="0" type="2"/>
+      <Point x="16.490171211160433273" y="0" type="2"/>
+      <Point x="17.990171211160429721" y="1" type="2"/>
+      <Point x="19.990171211160429721" y="1" type="2"/>
+      <Point x="21.490171211160433273" y="0" type="2"/>
+      <Point x="22.990171211160429721" y="0.01369863013698629" type="2"/>
+      <Point x="24.490171211160429721" y="1" type="2"/>
+      <Point x="26.490171211160429721" y="1" type="2"/>
+      <Point x="27.990171211160429721" y="0" type="2"/>
+      <Point x="29.490171211160429721" y="0" type="2"/>
+      <Point x="30.990171211160429721" y="1" type="2"/>
+      <Point x="32" y="1" type="2"/>
+      <Point x="32" y="1" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-16744193" xright="32" colourright="-16744193"/>
+  </Colour>
+  <Strobe/>
+</LightingEditModel>

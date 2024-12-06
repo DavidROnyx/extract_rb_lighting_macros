@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0.0" xright="32.0">
+      <Point x="0.0" y="0.0" type="1"/>
+      <Point x="0.0" y="0.0" type="2"/>
+      <Point x="1.5" y="0.9866666666666667" type="2"/>
+      <Point x="3.0" y="0.9866666666666667" type="2"/>
+      <Point x="3.0" y="0.0" type="2"/>
+      <Point x="4.0" y="0.0" type="2"/>
+      <Point x="4.0" y="1.0" type="2"/>
+      <Point x="8.0" y="0.0" type="2"/>
+      <Point x="12.0" y="0.0" type="2"/>
+      <Point x="12.0" y="1.0" type="2"/>
+      <Point x="13.00004964280429" y="1.0" type="2"/>
+      <Point x="14.0" y="0.0" type="2"/>
+      <Point x="16.0" y="0.0" type="2"/>
+      <Point x="16.0" y="0.0" type="2"/>
+      <Point x="17.5" y="0.9866666666666667" type="2"/>
+      <Point x="19.0" y="0.9866666666666667" type="2"/>
+      <Point x="19.0" y="0.0" type="2"/>
+      <Point x="20.0" y="0.0" type="2"/>
+      <Point x="20.0" y="1.0" type="2"/>
+      <Point x="24.0" y="0.0" type="2"/>
+      <Point x="28.0" y="0.0" type="2"/>
+      <Point x="28.0" y="1.0" type="2"/>
+      <Point x="29.00004964280429" y="1.0" type="2"/>
+      <Point x="30.0" y="0.0" type="2"/>
+      <Point x="32.0" y="0.0" type="2"/>
+      <Point x="32.0" y="0.0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0.0" colourleft="-261373" xright="32.0" colourright="-261373"/>
+  </Colour>
+  <Strobe/>
+  <Position>
+    <MovementBlock xleft="0.0" xright="2.0" pattern="Circle" width="127" height="127"
+                   offset_x="127" offset_y="127" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="4.0" xright="6.0" pattern="Circle" width="127" height="127"
+                   offset_x="127" offset_y="127" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="16.0" xright="17.75" pattern="Circle" width="127" height="127"
+                   offset_x="127" offset_y="127" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="19.75" xright="21.75" pattern="Circle" width="127" height="127"
+                   offset_x="127" offset_y="127" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+  </Position>
+  <Rotate>
+    <RotateBlock xleft="0.0" rotateleft="0.6066945791244507" xright="6.749999999999999"
+                 rotateright="0.6066945791244507"/>
+    <RotateBlock xleft="16.0" rotateleft="0.6066945791244507" xright="22.5" rotateright="0.6066945791244507"/>
+  </Rotate>
+  <Gobo>
+    <GoboBlock xleft="0.0" xright="6.749999999999999" goboindex="30"/>
+    <GoboBlock xleft="16.0" xright="22.5" goboindex="30"/>
+  </Gobo>
+</LightingEditModel>

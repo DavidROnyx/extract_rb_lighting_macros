@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0.0" xright="32.0">
+      <Point x="0.0" y="0.5066666666666667" type="1"/>
+      <Point x="32.0" y="0.5066666666666667" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour/>
+  <Strobe/>
+  <Position>
+    <MovementBlock xleft="0.0" xright="17.5" pattern="Circle" width="0" height="127"
+                   offset_x="120" offset_y="250" round_angle="120" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+  </Position>
+  <Rotate/>
+  <Gobo/>
+</LightingEditModel>

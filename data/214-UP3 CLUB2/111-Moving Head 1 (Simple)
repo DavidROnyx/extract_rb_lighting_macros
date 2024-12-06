@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="1.0416666666666667407" y="0" type="2"/>
+      <Point x="1.2583333333333335258" y="1" type="2"/>
+      <Point x="1.8249999999999995115" y="1" type="2"/>
+      <Point x="2.0083333333333328596" y="0" type="2"/>
+      <Point x="3.0250000000000003553" y="0" type="2"/>
+      <Point x="3.2416666666666671404" y="1" type="2"/>
+      <Point x="3.8083333333333331261" y="1" type="2"/>
+      <Point x="3.9749999999999996447" y="0" type="2"/>
+      <Point x="4.991666666666665364" y="0" type="2"/>
+      <Point x="5.2083333333333330373" y="1" type="2"/>
+      <Point x="5.7749999999999985789" y="1" type="2"/>
+      <Point x="5.9583333333333330373" y="0" type="2"/>
+      <Point x="6.9749999999999978684" y="0" type="2"/>
+      <Point x="7.1916666666666655416" y="1" type="2"/>
+      <Point x="7.7583333333333328596" y="1" type="2"/>
+      <Point x="7.9416666666666664298" y="0" type="2"/>
+      <Point x="7.9583333333333321491" y="0" type="2"/>
+      <Point x="7.9749999999999996447" y="0" type="2"/>
+      <Point x="7.9916666666666662522" y="0" type="2"/>
+      <Point x="9.0083333333333328596" y="0" type="2"/>
+      <Point x="9.2250000000000014211" y="1" type="2"/>
+      <Point x="9.7916666666666678509" y="1" type="2"/>
+      <Point x="9.9750000000000014211" y="0" type="2"/>
+      <Point x="10.99166666666666714" y="0" type="2"/>
+      <Point x="11.208333333333333925" y="1" type="2"/>
+      <Point x="11.775000000000002132" y="1" type="2"/>
+      <Point x="11.958333333333333925" y="0" type="2"/>
+      <Point x="11.975000000000001421" y="0" type="2"/>
+      <Point x="12.00833333333333286" y="0" type="2"/>
+      <Point x="13.024999999999998579" y="0" type="2"/>
+      <Point x="13.24166666666666714" y="1" type="2"/>
+      <Point x="13.808333333333331794" y="1" type="2"/>
+      <Point x="13.99166666666666714" y="0" type="2"/>
+      <Point x="15.00833333333333286" y="0" type="2"/>
+      <Point x="15.224999999999999645" y="1" type="2"/>
+      <Point x="15.791666666666667851" y="1" type="2"/>
+      <Point x="15.974999999999999645" y="0" type="2"/>
+      <Point x="15.99166666666666714" y="0" type="2"/>
+      <Point x="16.00833333333333286" y="0" type="2"/>
+      <Point x="17.024999999999995026" y="0" type="2"/>
+      <Point x="17.241666666666663588" y="1" type="2"/>
+      <Point x="17.80833333333333357" y="1" type="2"/>
+      <Point x="17.99166666666666714" y="0" type="2"/>
+      <Point x="19.008333333333336412" y="0" type="2"/>
+      <Point x="19.224999999999997868" y="1" type="2"/>
+      <Point x="19.791666666666664298" y="1" type="2"/>
+      <Point x="19.974999999999997868" y="0" type="2"/>
+      <Point x="19.991666666666663588" y="0" type="2"/>
+      <Point x="20.00833333333333286" y="0" type="2"/>
+      <Point x="21.024999999999998579" y="0" type="2"/>
+      <Point x="21.24166666666666714" y="1" type="2"/>
+      <Point x="21.808333333333330017" y="1" type="2"/>
+      <Point x="21.991666666666663588" y="0" type="2"/>
+      <Point x="23.00833333333333286" y="0" type="2"/>
+      <Point x="23.225000000000001421" y="1" type="2"/>
+      <Point x="23.791666666666667851" y="1" type="2"/>
+      <Point x="23.975000000000001421" y="0" type="2"/>
+      <Point x="23.991666666666663588" y="0" type="2"/>
+      <Point x="25.008333333333325754" y="0" type="2"/>
+      <Point x="25.224999999999994316" y="1" type="2"/>
+      <Point x="25.791666666666664298" y="1" type="2"/>
+      <Point x="25.974999999999997868" y="0" type="2"/>
+      <Point x="26.991666666666663588" y="0" type="2"/>
+      <Point x="27.208333333333332149" y="1" type="2"/>
+      <Point x="27.774999999999995026" y="1" type="2"/>
+      <Point x="27.958333333333328596" y="0" type="2"/>
+      <Point x="27.974999999999994316" y="0" type="2"/>
+      <Point x="28.008333333333325754" y="0" type="2"/>
+      <Point x="29.024999999999995026" y="0" type="2"/>
+      <Point x="29.241666666666663588" y="1" type="2"/>
+      <Point x="29.808333333333330017" y="1" type="2"/>
+      <Point x="29.991666666666663588" y="0" type="2"/>
+      <Point x="31.008333333333325754" y="0" type="2"/>
+      <Point x="31.224999999999994316" y="1" type="2"/>
+      <Point x="31.791666666666664298" y="1" type="2"/>
+      <Point x="31.974999999999997868" y="0" type="2"/>
+      <Point x="31.991666666666660035" y="0" type="2"/>
+      <Point x="31.991666666666663588" y="0" type="2"/>
+      <Point x="32" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-256" xright="32" colourright="-256"/>
+  </Colour>
+  <Strobe/>
+  <Position>
+    <MovementBlock xleft="0" xright="1.0375000000000000888" pattern="Circle" width="0"
+                   height="0" offset_x="185" offset_y="25" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="1.0375000000000000888" xright="2.9734375000000001776"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="2.9828125000000000888" xright="5.0171874999999994671"
+                   pattern="Circle" width="0" height="0" offset_x="185" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="5.0171874999999994671" xright="7.0093749999999985789"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="7.0234374999999991118" xright="9.0320312499999992895"
+                   pattern="Circle" width="0" height="0" offset_x="185" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="9.0320312499999992895" xright="11.004296874999999645"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="11.004296874999999645" xright="13.008203124999999645"
+                   pattern="Circle" width="0" height="0" offset_x="185" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="13.008203124999999645" xright="14.991015625000001066"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="15.022656250000000711" xright="17.026562500000000711"
+                   pattern="Circle" width="0" height="0" offset_x="185" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="17.026562500000000711" xright="19.008333333333336412"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="19.00833333333333286" xright="21.012239583333329307" pattern="Circle"
+                   width="0" height="0" offset_x="185" offset_y="25" round_angle="0"
+                   offset_angle="0" period_time="20000" frequency_x="2" frequency_y="3"
+                   phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="21.012239583333329307" xright="22.991666666666663588"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="22.991666666666663588" xright="24.995572916666663588"
+                   pattern="Circle" width="0" height="0" offset_x="185" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="24.995572916666663588" xright="26.978385416666665009"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="27.00833333333333286" xright="29.012239583333329307" pattern="Circle"
+                   width="0" height="0" offset_x="185" offset_y="25" round_angle="0"
+                   offset_angle="0" period_time="20000" frequency_x="2" frequency_y="3"
+                   phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="29.012239583333329307" xright="30.974999999999997868"
+                   pattern="Circle" width="0" height="0" offset_x="140" offset_y="25"
+                   round_angle="0" offset_angle="0" period_time="20000" frequency_x="2"
+                   frequency_y="3" phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="30.974999999999997868" xright="32" pattern="Circle" width="0"
+                   height="0" offset_x="185" offset_y="25" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+  </Position>
+</LightingEditModel>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="3.9666666666666663" y="0" type="2"/>
+      <Point x="4.466666666666665" y="1" type="2"/>
+      <Point x="7.466666666666665" y="1" type="2"/>
+      <Point x="7.966666666666665" y="0" type="2"/>
+      <Point x="7.9833333333333325" y="0" type="2"/>
+      <Point x="12" y="0" type="2"/>
+      <Point x="12.433333333333332" y="1" type="2"/>
+      <Point x="15.433333333333332" y="1" type="2"/>
+      <Point x="15.949999999999996" y="0" type="2"/>
+      <Point x="20" y="0" type="2"/>
+      <Point x="20.433333333333334" y="1" type="2"/>
+      <Point x="23.43333333333333" y="1" type="2"/>
+      <Point x="23.916666666666664" y="0" type="2"/>
+      <Point x="27.966666666666661" y="0" type="2"/>
+      <Point x="28.399999999999999" y="1" type="2"/>
+      <Point x="31.383333333333329" y="1" type="2"/>
+      <Point x="31.916666666666668" y="0" type="2"/>
+      <Point x="31.949999999999996" y="0" type="2"/>
+      <Point x="31.966666666666665" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-30720" xright="3.9666666666666663" colourright="-30720"/>
+    <ColourBlock xleft="3.9666666666666663" colourleft="-36352" xright="7.966666666666665"
+                 colourright="-36352"/>
+    <ColourBlock xleft="7.966666666666665" colourleft="-30720" xright="7.9833333333333325"
+                 colourright="-30720"/>
+    <ColourBlock xleft="7.9833333333333325" colourleft="-36352" xright="15.949999999999996"
+                 colourright="-36352"/>
+    <ColourBlock xleft="15.949999999999996" colourleft="-36352" xright="23.916666666666664"
+                 colourright="-36352"/>
+    <ColourBlock xleft="23.916666666666664" colourleft="-36352" xright="31.916666666666668"
+                 colourright="-36352"/>
+    <ColourBlock xleft="31.916666666666668" colourleft="-36352" xright="31.949999999999996"
+                 colourright="-36352"/>
+    <ColourBlock xleft="31.949999999999996" colourleft="-36352" xright="31.966666666666665"
+                 colourright="-36352"/>
+    <ColourBlock xleft="31.966666666666665" colourleft="-30720" xright="31.983333333333334"
+                 colourright="-30720"/>
+  </Colour>
+  <Strobe/>
+</LightingEditModel>

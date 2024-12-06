@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="0.25" y="1" type="2"/>
+      <Point x="0.75" y="1" type="2"/>
+      <Point x="1" y="0" type="2"/>
+      <Point x="3" y="0" type="2"/>
+      <Point x="3.25" y="1" type="2"/>
+      <Point x="3.75" y="1" type="2"/>
+      <Point x="4" y="0" type="2"/>
+      <Point x="6" y="0" type="2"/>
+      <Point x="6.25" y="1" type="2"/>
+      <Point x="6.75" y="1" type="2"/>
+      <Point x="7" y="0" type="2"/>
+      <Point x="9" y="0" type="2"/>
+      <Point x="9.25" y="1" type="2"/>
+      <Point x="9.75" y="1" type="2"/>
+      <Point x="10" y="0" type="2"/>
+      <Point x="12" y="0" type="2"/>
+      <Point x="12.25" y="1" type="2"/>
+      <Point x="12.75" y="1" type="2"/>
+      <Point x="13" y="0" type="2"/>
+      <Point x="15" y="0" type="2"/>
+      <Point x="15.25" y="1" type="2"/>
+      <Point x="15.75" y="1" type="2"/>
+      <Point x="16" y="0" type="2"/>
+      <Point x="18" y="0" type="2"/>
+      <Point x="18.25" y="1" type="2"/>
+      <Point x="18.75" y="1" type="2"/>
+      <Point x="19" y="0" type="2"/>
+      <Point x="21" y="0" type="2"/>
+      <Point x="21.25" y="1" type="2"/>
+      <Point x="21.75" y="1" type="2"/>
+      <Point x="22" y="0" type="2"/>
+      <Point x="24" y="0" type="2"/>
+      <Point x="24.25" y="1" type="2"/>
+      <Point x="24.75" y="1" type="2"/>
+      <Point x="25" y="0" type="2"/>
+      <Point x="27" y="0" type="2"/>
+      <Point x="27.25" y="1" type="2"/>
+      <Point x="27.75" y="1" type="2"/>
+      <Point x="28" y="0" type="2"/>
+      <Point x="30" y="0" type="2"/>
+      <Point x="30.25" y="1" type="2"/>
+      <Point x="30.75" y="1" type="2"/>
+      <Point x="31" y="0" type="2"/>
+      <Point x="32" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-256" xright="32" colourright="-256"/>
+  </Colour>
+  <Strobe>
+    <StrobeBlock xleft="0" strobeleft="1.0" xright="32" stroberight="1.0"/>
+  </Strobe>
+</LightingEditModel>

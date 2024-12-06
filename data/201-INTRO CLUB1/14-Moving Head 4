@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="3.9833333333333329" y="0" type="2"/>
+      <Point x="3.9833333333333329" y="0" type="2"/>
+      <Point x="5.9666666666666659" y="1" type="2"/>
+      <Point x="7.9499999999999975" y="0" type="2"/>
+      <Point x="7.9666666666666668" y="0" type="2"/>
+      <Point x="11.950000000000001" y="0" type="2"/>
+      <Point x="11.950000000000001" y="0" type="2"/>
+      <Point x="13.933333333333332" y="1" type="2"/>
+      <Point x="15.916666666666664" y="0" type="2"/>
+      <Point x="15.949999999999999" y="0" type="2"/>
+      <Point x="15.966666666666665" y="0" type="2"/>
+      <Point x="19.949999999999999" y="0" type="2"/>
+      <Point x="19.949999999999999" y="0" type="2"/>
+      <Point x="21.93333333333333" y="1" type="2"/>
+      <Point x="23.916666666666664" y="0" type="2"/>
+      <Point x="23.949999999999999" y="0" type="2"/>
+      <Point x="23.983333333333334" y="0" type="2"/>
+      <Point x="27.966666666666665" y="0" type="2"/>
+      <Point x="27.966666666666665" y="0" type="2"/>
+      <Point x="29.949999999999999" y="1" type="2"/>
+      <Point x="31.93333333333333" y="0" type="2"/>
+      <Point x="31.966666666666665" y="0" type="2"/>
+      <Point x="31.983333333333334" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-1" xright="0.25" colourright="-1"/>
+    <ColourBlock xleft="0.25" colourleft="-1" xright="3.9499999999999997" colourright="-1"/>
+    <ColourBlock xleft="3.9499999999999997" colourleft="-525833" xright="31.983333333333334"
+                 colourright="-525833"/>
+  </Colour>
+  <Strobe/>
+  <Position>
+    <MovementBlock xleft="0" xright="31.949999999999999" pattern="Circle" width="30"
+                   height="50" offset_x="180" offset_y="70" round_angle="0" offset_angle="0"
+                   period_time="8500" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Backward"/>
+  </Position>
+</LightingEditModel>

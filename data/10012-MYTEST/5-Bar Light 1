@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0.0" xright="15.9984375">
+      <Point x="0.0" y="0.0" type="1"/>
+      <Point x="0.01111111111111111" y="0.0" type="2"/>
+      <Point x="4.022222222222222" y="0.9866666666666667" type="2"/>
+      <Point x="15.9984375" y="0.9866666666666667" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0.09999999999999999" colourleft="-16711936" xright="8.088888888888889"
+                 colourright="-16711936"/>
+    <ColourBlock xleft="8.088888888888889" colourleft="-16776961" xright="13.22222222222222"
+                 colourright="-16776961"/>
+    <ColourBlock xleft="13.22222222222222" colourleft="-16711936" xright="15.9984375"
+                 colourright="-16711936"/>
+  </Colour>
+  <Strobe>
+    <StrobeBlock xleft="12.03333333333333" strobeleft="0.8999999761581421" xright="15.98888888888889"
+                 stroberight="0.8999999761581421"/>
+  </Strobe>
+  <Position>
+    <MovementBlock xleft="0.05555555555555555" xright="4.033333333333333" pattern="Circle"
+                   width="15" height="60" offset_x="200" offset_y="127" round_angle="30"
+                   offset_angle="0" period_time="20000" frequency_x="2" frequency_y="3"
+                   phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="4.033333333333333" xright="8.033333333333333" pattern="Line2"
+                   width="127" height="127" offset_x="127" offset_y="127" round_angle="0"
+                   offset_angle="0" period_time="5000" frequency_x="2" frequency_y="3"
+                   phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+    <MovementBlock xleft="8.033333333333333" xright="15.9984375" pattern="Circle"
+                   width="15" height="60" offset_x="200" offset_y="127" round_angle="30"
+                   offset_angle="0" period_time="20000" frequency_x="2" frequency_y="3"
+                   phase_x="90" phase_y="0" type="Loop" direction="Forward"/>
+  </Position>
+</LightingEditModel>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0.0" xright="15.9984375">
+      <Point x="0.0" y="0.0" type="1"/>
+      <Point x="15.9984375" y="0.0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0.0" colourleft="-65536" xright="15.9984375" colourright="-65536"/>
+  </Colour>
+  <Strobe/>
+</LightingEditModel>

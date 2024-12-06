@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LightingEditModel ver="1.0">
+  <Brightness>
+    <PointBlock xleft="0" xright="32">
+      <Point x="0" y="0" type="1"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="0" y="0" type="2"/>
+      <Point x="1.9666666666666666" y="0" type="2"/>
+      <Point x="1.9666666666666666" y="0" type="2"/>
+      <Point x="2.5333333333333328" y="1" type="2"/>
+      <Point x="5.3499999999999996" y="1" type="2"/>
+      <Point x="5.9666666666666668" y="0" type="2"/>
+      <Point x="9.9499999999999993" y="0" type="2"/>
+      <Point x="9.9499999999999993" y="0" type="2"/>
+      <Point x="10.516666666666666" y="1" type="2"/>
+      <Point x="13.333333333333332" y="1" type="2"/>
+      <Point x="13.933333333333332" y="0" type="2"/>
+      <Point x="17.983333333333334" y="0" type="2"/>
+      <Point x="17.983333333333334" y="0" type="2"/>
+      <Point x="18.550000000000001" y="1" type="2"/>
+      <Point x="21.366666666666664" y="1" type="2"/>
+      <Point x="21.966666666666661" y="0" type="2"/>
+      <Point x="25.966666666666665" y="0" type="2"/>
+      <Point x="25.966666666666665" y="0" type="2"/>
+      <Point x="26.533333333333331" y="1" type="2"/>
+      <Point x="29.349999999999998" y="1" type="2"/>
+      <Point x="29.883333333333329" y="0.13513513513513808" type="2"/>
+      <Point x="29.983333333333334" y="0" type="2"/>
+      <Point x="31.983333333333334" y="0" type="2"/>
+      <Point x="32" y="0" type="3"/>
+    </PointBlock>
+  </Brightness>
+  <Colour>
+    <ColourBlock xleft="0" colourleft="-16711767" xright="31.983333333333334"
+                 colourright="-16711767"/>
+  </Colour>
+  <Strobe/>
+  <Position>
+    <MovementBlock xleft="0" xright="31.983333333333334" pattern="Circle" width="0"
+                   height="0" offset_x="212" offset_y="32" round_angle="0" offset_angle="0"
+                   period_time="20000" frequency_x="2" frequency_y="3" phase_x="90"
+                   phase_y="0" type="Loop" direction="Forward"/>
+  </Position>
+</LightingEditModel>
